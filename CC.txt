@@ -1,0 +1,178 @@
+Job 1       J + Fast Food
+Girl 1      Cassie
+Talk 5
+Upgrade
+Hobby 1     H + Suave
+Talk 13
+Upgrade
+Hobby 2     H + Funny
+Hobby 3     H + Buff
+Hobby 4     H + Techsavvy
+Wait 250
+Job 3       J + Restaurant
+Gift 1
+Talk 15
+Upgrade
+Gift 2
+Talk 20
+Upgrade
+Hobby 5     H + Tenderness
+Hobby 6     H + Motivation
+Wait 250
+Job 5       J + Lifeguard
+Gift 3
+Date 1
+Talk 35
+Upgrade
+Gift 4
+Date 1 3
+Talk 60
+Upgrade
+Hobby 7     H + Wisdom
+Hobby 8     H + Badass
+Date 4
+Job 3       J - Restaurant
+Job 5       J - Lifeguard
+Job 7       J + Cleaning
+Gift 5
+Talk 130
+Upgrade
+Girl 7      Bonnibel
+Talk 10
+Upgrade
+Talk 10
+Upgrade
+Hobby 9     H + Smart
+Job 4       J + Zoo
+Girl 2      Mio
+Talk 10
+Upgrade
+Talk 10
+Upgrade
+Gift 2
+Talk 10
+Upgrade
+Gift 3
+Talk 20
+Upgrade
+Date 1 2
+Gift 4
+Talk 55
+Upgrade
+Gift 7
+Date 4 2
+Talk 100
+Upgrade
+Girl 3      Quill
+Talk 15
+Upgrade
+Hobby 1     H - Suave
+Hobby 2     H - Funny
+Hobby 3     H - Buff
+Hobby 4     H - Techsavvy
+Hobby 5     H - Tenderness
+Hobby 6     H - Motivation
+Hobby 7     H - Wisdom
+Hobby 8     H - Badass
+Hobby 9     H - Smart
+Job 3       J + Restaurant
+Job 2       J + Computers
+Job 10      J + Sports
+Talk 50
+Upgrade
+Girl 4      Elle
+Talk 5
+Upgrade
+Talk 10
+Upgrade
+Gift 2 5
+Talk 20
+Upgrade
+Gift 6 3
+Talk 30
+Upgrade
+Date 1 4
+Gift 9 2
+Talk 60
+Upgrade
+Job 3       J - Restaurant
+Job 4       J - Zoo
+Hobby 10    H + Angst
+Hobby 11    H + Mysterious
+Hobby 12    H + Lucky
+Girl 5      Nutaku
+Talk 5
+Upgrade
+Talk 10
+Upgrade
+Gift 3 3
+Talk 20
+Upgrade
+Gift 7
+Talk 60
+Upgrade
+Girl 6      Iro
+Talk 5
+Upgrade
+Talk 10
+Upgrade
+Gift 3 5
+Talk 25
+Upgrade
+Gift 5 5
+Talk 100
+Upgrade
+Girl 7      Bonnibel
+Gift 1 10
+Talk 20
+Upgrade
+Girl 8      Ayano
+Talk 10
+Upgrade
+Talk 10
+Upgrade
+Girl 1      Cassie
+Gift 6
+Date 4 3
+Talk 75
+Upgrade
+Girl 2      Mio
+Date 3 1
+Gift 9 1
+Talk 175
+Upgrade
+Hobby 10    H - Angst
+Hobby 11    H - Mysterious
+Hobby 12    H - Lucky
+Job 3       J + Restaurant
+Job 5       J + Lifeguard
+Job 4       J + Zoo
+Girl 3      Quill
+Gift 1 1
+Talk 20
+Upgrade
+Gift 5
+Talk 30
+Upgrade
+Gift 8
+Date 1 3
+Talk 70
+Upgrade
+Date 4 3
+Gift 10
+Talk 150
+Upgrade
+Girl 5      Nutaku
+Gift 9 2
+Date 1 5
+Talk 20
+Upgrade
+Girl 9      Fumi
+Talk 10
+Upgrade
+Girl 6      Iro
+Date 1 6
+Gift 9 3
+Talk 20
+Upgrade
+Reset
