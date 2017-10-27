@@ -110,28 +110,6 @@ ChooseGirl(index)
         SetMouseDelay, %MouseDelay%
     }
     
-    ;scrollX := GirlX + 20
-    ;scrollY := GirlY[3] + 20
-    ;If (page < ActiveGirlPage)
-    ;{
-    ;    MoveMouse(scrollX, scrollY)
-    ;    Click, WheelUp, 20
-    ;    Sleep, 50
-    ;    Click, WheelUp
-    ;    ActiveGirlPage := 1
-    ;}
-    ;pageOffset := page - ActiveGirlPage
-    ;If (pageOffset > 0)
-    ;{
-    ;    Loop, % pageOffset
-    ;    {
-    ;        MoveMouse(scrollX, scrollY)
-    ;        MouseClickDrag, Left, 0, 0, 0, -355, 5, R
-    ;        Sleep, 50
-    ;        If (StopLoop = 1)
-    ;            Break
-    ;    }
-    ;}
     If (StopLoop = 1)
         Return
     y := GirlY[Mod(index - 1, 3) + 1]
