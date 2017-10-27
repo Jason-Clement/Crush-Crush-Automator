@@ -12,7 +12,7 @@ To use, create a CC.txt file in the same folder and enter the commands to execut
 When I first created this, I had about 250 prestige and I used this to gain about 4.5 prestige every six minutes. I also use it to set up a run when I'm going to attempt to advance more to gain gems and time slots.
 
 ### Hotkeys
-Hotkeys | Action
+Hotkeys&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Action
 ------- | ------
 <nobr><kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>1</kbd></nobr> | Runs the test function. You really don't need to use this.
 <nobr><kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>5</kbd></nobr> | Sets the coordinate offsets. You need to do this if you have moved or resized the game window since you first ran the script.
@@ -21,8 +21,8 @@ Hotkeys | Action
 <nobr><kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>0</kbd></nobr> | Stops whatever is executing currently. Note that some commands will run to completion after this is pressed.
 
 ### Commands
-Command  | Action
--------  | ------
+Command&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Action
+------- | ------
 <nobr>Stop</nobr>     | Stops the sequence and immediately terminates the loop. This is useful for debugging and setting up your command sequence.
 <nobr>Wait n</nobr>   | Tells the script to do nothing for the specified number (*n*) of milliseconds.
 <nobr>Girl n</nobr>   | Switches to the girl screen and selects the girl at position *n*. The numbers ascend from top to bottom (Cassie is 1, Mio is 2, etc.)
@@ -39,5 +39,5 @@ Command  | Action
 None of the commands take into account cooldown times. You must use `Wait` to specify them where necessary.
 
 ### ToDo
-- Make Steam version compatible.
+- Implement Steam version compatibility.
 - Implement a pause hotkey that will resume execution from the point where it stopped.
