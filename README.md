@@ -1,5 +1,13 @@
 # Crush Crush Automator
 
+I have an addiction to idle games. It comes and goes and it's relatively harmless, but it's compounded by my addiction to automating things. I love automating things. Therefore, I discover an idle game, and I try to automate it; usually with AutoHotKey.
+
+Crush Crush is not a particularly good idle game and it turns out to be pay-to-win in that the prestige has a max of 2048 which is reached pretty quickly. Still, I did enjoy writing this little script.
+
+Realm Grinder is a better idle game and can be found on [Steam](http://store.steampowered.com/app/610080/Realm_Grinder/) and on [Kongregate](http://www.kongregate.com/games/DivineGames/realm-grinder). Another decent one is [Kittens Game](http://bloodrizer.ru/games/kittens), though it lacks any sort of visuals. I think I may automate that one next. I also have an idea for a new idle game in the same vein as Kittens Game, which is most likely what I'll work on if I ever find the time.
+
+### Description
+
 This is an [AutoHotKey](https://www.autohotkey.com/) script for the idle game [Crush Crush](http://www.kongregate.com/games/SadPandaStudios/crush-crush) on Kongregate. This game's progression is set by the "prestige" gained upon reset, which is a number that increases based on your progress in the current game. The prestige gained progression is linear, but the time to increase is exponential, meaning that progression is far faster to reset early than it is to try to progress farther before resetting.
 
 ### How to Use
