@@ -1,7 +1,5 @@
 # Crush Crush Automator
 
-I have an addiction to idle games. It comes and goes and it's relatively harmless, but it's compounded by my addiction to automating things. I love automating things. Therefore, I discover an idle game, and I try to automate it; usually with AutoHotKey.
-
 Crush Crush is not a particularly good idle game and it turns out to be pay-to-win in that the prestige has a max of 2048 which is reached pretty quickly. Still, I did enjoy writing this little script.
 
 Realm Grinder is a better idle game and can be found on [Steam](http://store.steampowered.com/app/610080/Realm_Grinder/) and on [Kongregate](http://www.kongregate.com/games/DivineGames/realm-grinder). Another decent one is [Kittens Game](http://bloodrizer.ru/games/kittens), though it lacks any sort of visuals. I think I may automate that one next. I also have an idea for a new idle game in the same vein as Kittens Game, which is most likely what I'll work on if I ever find the time.
@@ -39,7 +37,7 @@ Command&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Action
 <nobr>Date n m</nobr> | Switches to the girl screen and activates the specified date number (*n*) the amount of times specified by *m*. Date numbers are specified from top to bottom. (Date 1 2 will run the Moonlight Stroll date 2 times.) *m* can be omitted if only running once.
 <nobr>Gift n m</nobr> | Switches to the girl screen and gives the specified gift number (*n*) the amount of times specified by *m*. Gift numbers are specified from left to right and then top to down and then by page (Shell is 1, Rose is 2, Hand Lotion is 3, etc.) *m* can be omitted if only giving one gift.
 <nobr>Tap n</nobr>    | Switches to the girl screen and taps the girl the specified number of times (*n*) to accumulate hearts.
-<nobr>Talk n</nobr>   | Switches to the girl screen and presses the talk button (Sorry, Flirt, etc.) the specified number of times (*n*) to accumulate hearts. Does not take the cooldown into consideration. You an think of the number specified as more like a time than a number of clicks.
+<nobr>Talk n</nobr>   | Switches to the girl screen and presses the talk button (Sorry, Flirt, etc.) the specified number of times (*n*) to accumulate hearts. Does not take the cooldown into consideration. Think of the number specified as more like a time than a number of clicks.
 <nobr>Upgrade</nobr>  | Switches to the girl screen and upgrades the girl's relationship level with you.
 <nobr>Reset</nobr>    | Resets the game to gain prestige.
 
